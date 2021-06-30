@@ -6,10 +6,10 @@ YoRHa No.9 Type S
 Kyle McCarley|Natsuki Hanae
 3|0
 Soldier
-Robot
+Android
 Good
 Protagonist
 Male
-2|2B,A2
+2|2B,Pascal
 Soldier,Reality Loop,Video Games
 Medium
